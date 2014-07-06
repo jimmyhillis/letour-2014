@@ -1,0 +1,16 @@
+{
+  "name": "letour-2014",
+  "version": "0.0.1",
+  "description": "Le tour in geojson with schedules and stages",
+  "bin": {
+    "maps-to-geojson": "maps-to-geojson.js"
+  },
+  "dependencies": {
+    "request": "~2.36.0"
+  },
+  "devDependencies": {},
+  "author": {
+    "name": "Jimmy Hillis",
+    "url": "htpp://jimmyhillis.com"
+  }
+}
